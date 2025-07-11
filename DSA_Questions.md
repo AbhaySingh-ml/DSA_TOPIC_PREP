@@ -103,3 +103,56 @@ A curated set of essential LeetCode problems, grouped by topic and difficulty, t
 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium |
 
 ---
+
+## 🌲 8. Trees (Binary Tree / BST / DFS)
+
+| Problem | Difficulty | Link |
+|--------|------------|------|
+| Maximum Depth of Binary Tree | 🟢 Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| Invert Binary Tree | 🟢 Easy | [Link](https://leetcode.com/problems/invert-binary-tree/) |
+| Symmetric Tree | 🟢 Easy | [Link](https://leetcode.com/problems/symmetric-tree/) |
+| Path Sum | 🟢 Easy | [Link](https://leetcode.com/problems/path-sum/) |
+| Binary Tree Level Order Traversal | 🟡 Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| Diameter of Binary Tree | 🟡 Medium | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) |
+| Lowest Common Ancestor of a BST | 🟡 Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
+| Validate Binary Search Tree | 🟡 Medium | [Link](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Binary Tree Right Side View | 🟡 Medium | [Link](https://leetcode.com/problems/binary-tree-right-side-view/) |
+
+---
+
+## 🌐 9. Graphs (BFS / DFS / Topological Sort)
+
+| Problem | Difficulty | Link |
+|--------|------------|------|
+| Number of Islands | 🟡 Medium | [Link](https://leetcode.com/problems/number-of-islands/) |
+| Flood Fill | 🟢 Easy | [Link](https://leetcode.com/problems/flood-fill/) |
+| Course Schedule | 🟡 Medium | [Link](https://leetcode.com/problems/course-schedule/) |
+| Course Schedule II | 🔴 Hard | [Link](https://leetcode.com/problems/course-schedule-ii/) |
+| Clone Graph | 🟡 Medium | [Link](https://leetcode.com/problems/clone-graph/) |
+| Rotting Oranges | 🟡 Medium | [Link](https://leetcode.com/problems/rotting-oranges/) |
+| Pacific Atlantic Water Flow | 🔴 Hard | [Link](https://leetcode.com/problems/pacific-atlantic-water-flow/) |
+
+---
+
+## 💡 10. Dynamic Programming (DP)
+
+| Problem | Difficulty | Link |
+|--------|------------|------|
+| Climbing Stairs | 🟢 Easy | [Link](https://leetcode.com/problems/climbing-stairs/) |
+| House Robber | 🟡 Medium | [Link](https://leetcode.com/problems/house-robber/) |
+| House Robber II | 🟡 Medium | [Link](https://leetcode.com/problems/house-robber-ii/) |
+| Longest Palindromic Substring | 🟡 Medium | [Link](https://leetcode.com/problems/longest-palindromic-substring/) |
+| Longest Increasing Subsequence | 🟡 Medium | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| Partition Equal Subset Sum | 🟡 Medium | [Link](https://leetcode.com/problems/partition-equal-subset-sum/) |
+| Coin Change | 🔴 Hard | [Link](https://leetcode.com/problems/coin-change/) |
+| Word Break | 🔴 Hard | [Link](https://leetcode.com/problems/word-break/) |
+| Edit Distance | 🔴 Hard | [Link](https://leetcode.com/problems/edit-distance/) |
+
+---
+
+## 📝 Legend
+
+- 🟢 Easy — Warm-up, concept-building
+- 🟡 Medium — Common interview level
+- 🔴 Hard — Asked in top-tier company interviews
+
