@@ -1,4 +1,6 @@
+# Question
 # Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
 # Step 1: Check if lengths of s and t are same
 # Step 2: Create empty dict for s_count
 # Step 3: Create empty dict for t_count
